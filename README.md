@@ -10,7 +10,7 @@ DevOps Engineer @ Blaze Webtech
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 
-### I code inhttps://img.icons8.com/?size=100&id=33039&format=png&color=000000
+### I worked in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/ansible.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/terraform.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/jenkins.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/grafana.png" />
 
 ### IDE and Tools I Use
