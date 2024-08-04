@@ -5,6 +5,7 @@ DevOps Engineer @ Blaze Webtech
 
 - 🤖 Passionate about automating workflows
 - 🛠️ Building efficient and scalable systems
+- 🌱 I’m currently learning Cyber Security
 - 💻 Always eager to learn new technologies
 - 🎓 Lifelong learner and tech enthusiast
 - 🤔 I’m looking for help with Placements in FAANG
