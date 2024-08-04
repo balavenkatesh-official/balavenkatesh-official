@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ca4b8570-3b28-488e-a43a-fa849b533420)## Hi there 👋 It's me Bala venkatesh
+## Hi there 👋 It's me Bala venkatesh
 
 DevOps Engineer @ Blaze Webtech
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
