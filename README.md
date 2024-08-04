@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5727493a-4d58-42e4-9565-bd2987bf7774)## Hi there 👋 It's me Bala venkatesh
+## Hi there 👋 It's me Bala venkatesh
 
 DevOps Engineer @ Blaze Webtech
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -17,7 +17,7 @@ DevOps Engineer @ Blaze Webtech
 
 ### I worked in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/ansible.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/docker.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/terraform.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/jenkins.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/grafana.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/awslambda.png" /> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/awslambda.png" /> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/amazon_ecs/amazon_ecs-icon.svg" /> <img height="50" width="50" src="https://www.vectorlogo.zone/logos/amazon_ecs/git.png" />
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/>
